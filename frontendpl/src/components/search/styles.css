@@ -1,0 +1,44 @@
+.container{
+    display:inline-block;
+    position:relative;
+    width: 100%;
+}
+
+.input{
+position:absolute;
+top: 147px;
+left: 190px;
+width: 1150px;
+height: 75px;
+background: var(---cor-branco) 0% 0% no-repeat padding-box;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 8px;
+opacity: 1;
+
+font: var(--unnamed-font-style-normal) normal 300 var(--unnamed-font-size-24)/var(--unnamed-line-spacing-30) var(--unnamed-font-family-muli);
+letter-spacing: var(--unnamed-character-spacing-0);
+text-align: left;
+font: normal normal 300 24px/30px Muli;
+letter-spacing: 0px;
+color: #757575;
+opacity: 1;
+}
+::placeholder{
+    padding: 1rem;
+    font-family: 'Mulish', sans-serif;
+}
+
+.banner{
+width: 100%;
+}
+
+.lupa{
+position:absolute;
+top: 160px;
+left: 1265px;
+width: 49px;
+height: 49px;   
+opacity: 1;
+}
+
+

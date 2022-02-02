@@ -1,0 +1,26 @@
+:root {
+  --cor-branco: #FFFFFF;
+  --unnamed-color-263238: #263238;
+  --cor-destaque: #E76316;
+  --cor-rosa-claro: #92207242;
+  --cor-secundaria: #AE276F;
+  --cor-primaria: #5F1478;
+  --cor-cinza-medio: #757575;
+
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Mulish', sans-serif;
+  background: #F6F4F6 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+
+
